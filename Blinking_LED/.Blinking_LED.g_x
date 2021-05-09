@@ -1,0 +1,51 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_S32K144_100"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/platform/drivers/src/clock/fsl_clock_manager.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/fsl_pins_driver.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/inc/fsl_sim_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/fsl_clock_manager.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/inc/fsl_pmc_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2021-05-09, 20:24:58" FileAge="1620572098424" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2021-05-09, 20:24:58" FileAge="1620572098412" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2021-05-09, 20:24:58" FileAge="1620572098398" FileType="45637" CompNumb="1" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2021-05-09, 20:24:58" FileAge="1620572098395" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/hal/inc/fsl_pcc_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="Documentation/Blinking_LED_Settings.xml" FileDate="2021-05-09, 20:24:58" FileAge="1620572098479" FileType="3072" />
+      <File Name="SDK/platform/hal/inc/fsl_smc_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/fsl_pins_driver.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/sim/S32K144/fsl_sim_hal_S32K144.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144.h" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/pcc/fsl_pcc_hal.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/sim/S32K144/fsl_sim_hal_S32K144.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/smc/fsl_smc_hal.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.h" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="Documentation/Blinking_LED.txt" FileDate="2021-05-09, 20:24:58" FileAge="1620572098496" FileType="3072" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2021-05-09, 20:24:58" FileAge="1620572098438" FileType="45637" CompNumb="6" />
+      <File Name="Sources/main.c" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="128" />
+      <File Name="SDK/platform/hal/src/port/fsl_port_hal.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/scg/fsl_scg_hal.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.c" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/S32K144/fsl_clock_S32K144.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2021-05-09, 20:24:58" FileAge="1620572098435" FileType="45637" CompNumb="6" />
+      <File Name="SDK/platform/hal/inc/fsl_scg_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144_features.h" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/S32K144/fsl_clock_S32K144.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/inc/fsl_gpio_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/src/pmc/fsl_pmc_hal.c" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/hal/inc/fsl_port_hal.h" FileDate="2016-11-02, 20:45:08" FileAge="1478099708000" FileType="262144" />
+      <File Name="SDK/platform/devices/fsl_device_registers.h" FileDate="2016-11-02, 20:45:06" FileAge="1478099706000" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>1</CodeGenReference>
+</CodeGenerationInfo>
